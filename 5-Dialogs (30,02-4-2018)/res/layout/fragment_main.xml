@@ -1,0 +1,28 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="tops.com.barberapp.fragments.MainFragment"
+    android:orientation="vertical">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/tvAdmin"
+        android:text="Admin"
+        android:background="#8d8dd9"
+        style="@style/textview_style"
+        />
+
+    <TextView
+        android:id="@+id/tvBarber"
+        android:text="Barber"
+        android:background="#8dd0d9"
+        style="@style/textview_style"/>
+
+    <TextView
+        android:id="@+id/tvClient"
+        android:text="Client"
+        android:background="#8dd991"
+        style="@style/textview_style"/>
+
+</LinearLayout>
