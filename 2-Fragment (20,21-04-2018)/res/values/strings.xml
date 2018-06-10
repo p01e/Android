@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BarberApp</string>
+
+    <string name="login_here">Login Here</string>
+    <string name="login">Login</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
